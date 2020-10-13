@@ -4,7 +4,7 @@
 
 Welcome to my Github.
 
-* I'm Junior developer 😁
+* I'm Junior Developer 😁
 * I want to code my dream 🤓
 * Come to [my Blog](sangwoo0727.github.io) 🏖
 * I like Soccer ⚽️
