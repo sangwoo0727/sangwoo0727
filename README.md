@@ -9,7 +9,7 @@ Welcome to my Github.
 * Come to [my Blog](sangwoo0727.github.io) 🏖
 * I like Soccer ⚽️
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kangsw9395)](https://solved.ac/kangsw9395)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kangsw8940)](https://solved.ac/kangsw8940)
 
 
 <!--
