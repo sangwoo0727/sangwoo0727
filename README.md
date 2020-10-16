@@ -6,7 +6,7 @@ Welcome to my Github.
 
 * I'm Junior Developer 😁
 * I want to code my dream 🤓
-* Come to [my Blog](sangwoo0727.github.io) 🏖
+* Come to [my Blog](https://sangwoo0727.github.io) 🏖
 * I like Soccer ⚽️
 
 ![Eden's github stats](https://github-readme-stats.vercel.app/api?username=sangwoo0727&show_icons=true)
