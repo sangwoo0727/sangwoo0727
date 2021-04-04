@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 
 -->
 
+### Contact Me
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sangwoo0727.github.io/)](https://sangwoo0727.github.io/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangsw9395@gmail.com)](mailto:kangsw9395@gmail.com)
