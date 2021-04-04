@@ -17,10 +17,10 @@ Welcome to my Github.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwoo0727&layout=compact)](https://github.com/sangwoo0727/github-readme-stats)
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kangsw8940)](https://solved.ac/kangsw8940)
 
 ![Eden's github stats](https://github-readme-stats.vercel.app/api?username=sangwoo0727&show_icons=true&theme=graywhite)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kangsw8940)](https://solved.ac/kangsw8940)
+
 
 
 <!--
