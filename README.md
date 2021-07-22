@@ -7,7 +7,8 @@
 Welcome to my Github.
 
 * I'm Junior Backend Developer 😁
-* Come to [my Blog](https://sangwoo0727.github.io) 🏖
+* Come to [my new Blog](https://velog.io/@sangwoo0727) 🏖
+* [my old Blog](https://sangwoo0727.github.io/) 🏖
 * I love Soccer ⚽️
 
 
